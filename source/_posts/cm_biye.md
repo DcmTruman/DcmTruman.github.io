@@ -27,6 +27,13 @@ slide:
 --
 
 - [Felix Linder, a member of the hacker organization Phenoelit, attacked Cisco routers with routing & tunneling protocol in 2001](https://www.blackhat.com/presentations/bh-europe-01/fx/bh-europe-01-fx.pdf) ——路由隧道协议劫持
+
+--
+
+![](https://s2.ax1x.com/2019/12/24/lPoE7Q.png)
+
+--
+
 - [In 2005, Michael Lynn, a security researcher, presented a
 vulnerability concerned handling of IPv6 packets at the Black Hat conference [2], informally
 known as “Cisco gate”.](http://securityvulns.ru/files/lynn-cisco.pdf) ——实现任意代码执行
