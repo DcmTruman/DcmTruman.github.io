@@ -192,7 +192,7 @@ void quick_sort(int l,int r)
 }
 ```
 
---
+---
 
 ## 归并排序！
 
