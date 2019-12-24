@@ -31,6 +31,9 @@ slide:
 vulnerability concerned handling of IPv6 packets at the Black Hat conference [2], informally
 known as “Cisco gate”.](http://securityvulns.ru/files/lynn-cisco.pdf) ——实现任意代码执行
 - [At the 2008 DEFCON Conference, security expert Alex Pilosov and Tony Kapela demonstrated an attack on BGP ,the core Internet routing protocol, which created a big stir among the industry and academia.](https://www.freebuf.com/articles/network/75305.html) —— BGP协议劫持
+
+--
+
 - 针对嵌入式设备的黑客攻击陆续进入人们视野
 
 --
