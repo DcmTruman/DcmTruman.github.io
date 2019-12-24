@@ -53,7 +53,16 @@ known as “Cisco gate”.](http://securityvulns.ru/files/lynn-cisco.pdf) ——
 
 ## 我要做什么？
 
+--
+
 - 路由器的漏洞挖掘偏，本身需要大量经验，而总结性质的参考论文就非常少（[A Framework for DiscoveringRouter Protocols Vulnerabilities Based on Fuzzing](http://itiis.org/journals/tiis/digital-library/manuscript/file/20353/14.TIIS-RP-2012-Dec-0966.R1.pdf))
+
+--
+
+![](https://s2.ax1x.com/2019/12/24/lPomhn.jpg)
+
+--
+
 - 本次毕设，通过研究相关的技巧和工具，归纳总结一套路由器漏洞挖掘的流程框架。
 - 主要针对的是路由器前端和后端服务器的漏洞，更偏向web，并尝试用渗透的思想去做路由器漏洞挖掘。
 
